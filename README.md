@@ -330,12 +330,12 @@ Per-intent accuracy:
 
 ## 👤 Author
 
-**Pavan Kalyan Padala**  
+**PavanKalyan Padala**  
 Data Scientist | Applied AI | Machine Learning  
 
 🔗 **GitHub**: [pavankalyanpadala-programmer](https://github.com/pavankalyanpadala-programmer)  
-🔗 **LinkedIn**: [Add your LinkedIn URL]  
-📧 **Email**: [Add your email]
+🔗 **LinkedIn**: [pavankalyan-padala](https://www.linkedin.com/in/pavankalyan-padala/)  
+📧 **Email**: pavankalyanpadala349@gmail.com
 
 ---
 
