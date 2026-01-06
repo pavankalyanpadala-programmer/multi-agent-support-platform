@@ -1,0 +1,43 @@
+[
+    {
+      "text": "I was charged twice for my subscription",
+      "expected_intent": "Billing"
+    },
+    {
+      "text": "I see two charges on my invoice for the same month",
+      "expected_intent": "Billing"
+    },
+    {
+      "text": "How do I change my payment method?",
+      "expected_intent": "Account & Subscription"
+    },
+    {
+      "text": "I want to cancel my subscription and stop renewals",
+      "expected_intent": "Account & Subscription"
+    },
+    {
+      "text": "The dashboard is very slow and shows an error",
+      "expected_intent": "Technical Issue"
+    },
+    {
+      "text": "My app crashes when I try to log in",
+      "expected_intent": "Technical Issue"
+    },
+    {
+      "text": "How do I create a new analytics report in AcmeCloud?",
+      "expected_intent": "Product Usage"
+    },
+    {
+      "text": "Where can I find the export to CSV option?",
+      "expected_intent": "Product Usage"
+    },
+    {
+      "text": "What is AcmeCloud and how is it different from other tools?",
+      "expected_intent": "General FAQ"
+    },
+    {
+      "text": "What support channels does AcmeCloud offer?",
+      "expected_intent": "General FAQ"
+    }
+  ]
+  
