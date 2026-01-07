@@ -334,7 +334,8 @@ Per-intent accuracy:
 Data Scientist | Applied AI | Machine Learning  
 
 🔗 **GitHub**: [pavankalyanpadala-programmer](https://github.com/pavankalyanpadala-programmer)  
-🔗 **LinkedIn**: [pavankalyan-padala](https://www.linkedin.com/in/pavankalyan-padala/)  
+🔗 **LinkedIn**: [pavankalyan-padala](https://www.linkedin.com/in/pavankalyan-padala/)
+🌐 **Portfolio**: [https://applywizz-pavan-kalyan.vercel.app/](https://applywizz-pavan-kalyan.vercel.app/)
 📧 **Email**: pavankalyanpadala349@gmail.com
 
 ---
